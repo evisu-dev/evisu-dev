@@ -41,4 +41,4 @@ Changelog、Announcement Bar、Maintenance Notice、Status Pageを提供。
 - [Evisu Works](https://evisu-works.jp/)
 - [X (@evisu_dev)](https://x.com/evisu_dev)
 - [Qiita](https://qiita.com/evisu_dev)
-- [Zenn](https://zenn.dev/evisu_dev)
+- [Zenn](https://zenn.dev/evisu)
