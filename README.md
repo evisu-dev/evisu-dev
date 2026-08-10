@@ -10,20 +10,24 @@ AIを活用した業務・開発改善に取り組むソフトウェアエンジ
 
 - Business system development & modernization
 - Laravel / PHP development
+- Windows business application development & prototyping
 - AI-assisted development & workflow improvement
 - Development tools & technical experiments
 
 ## Selected Work
 
+### [Windows Offline Business App PoC](https://github.com/evisu-dev/windows-offline-business-poc)
+
+Laravel / NativePHPを利用した、Windowsインストール型・オフライン業務アプリの技術検証。  
+Windows実機でのインストール、更新、既存データ保持、SQLite永続化まで検証。
+
 ### [Laravel Structured Support Template](https://github.com/evisu-dev/laravel-structured-support-app-public)
 
-業務システムでよく利用されるステータス管理、DTO、Service構成などの実装例。  
-問い合わせ対応業務の状態管理を明確化するため、Enumによるステータス定義とService層を分離。
+業務システムで利用される、DTO / Service / Enumによる構造化設計サンプル。
 
 ### [UI Review MCP](https://github.com/evisu-dev/ui-review-mcp)
 
-スクリーンショットやURLをもとに、UIレビューと改善案作成を支援するMCP Server。  
-AIを開発工程へ組み込む実装の一つ。
+スクリーンショットやURLから、UIレビュー材料と改善指示を生成するMCP Server。
 
 ### [Kiro Review Kit](https://github.com/evisu-dev/kiro-review-kit)
 
